@@ -1,0 +1,19 @@
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\bin\Debug\LaSuperCalculadora.exe.config
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\bin\Debug\LaSuperCalculadora.exe
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\bin\Debug\LaSuperCalculadora.pdb
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.Properties.Resources.resources
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.csproj.GenerateResource.Cache
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.exe
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.pdb
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.fMain.resources
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.csprojResolveAssemblyReference.cache
+D:\Users\Crisp\Downloads\Curso\MEGACURSO.NET.CON.C\01 .Net con C#. Módulo 1. Aprendizaje de 0 a 100 (35h)\Recursos\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\bin\Debug\LaSuperCalculadora.exe.config
+D:\Users\Crisp\Downloads\Curso\MEGACURSO.NET.CON.C\01 .Net con C#. Módulo 1. Aprendizaje de 0 a 100 (35h)\Recursos\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\bin\Debug\LaSuperCalculadora.exe
+D:\Users\Crisp\Downloads\Curso\MEGACURSO.NET.CON.C\01 .Net con C#. Módulo 1. Aprendizaje de 0 a 100 (35h)\Recursos\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\bin\Debug\LaSuperCalculadora.pdb
+D:\Users\Crisp\Downloads\Curso\MEGACURSO.NET.CON.C\01 .Net con C#. Módulo 1. Aprendizaje de 0 a 100 (35h)\Recursos\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.csprojAssemblyReference.cache
+D:\Users\Crisp\Downloads\Curso\MEGACURSO.NET.CON.C\01 .Net con C#. Módulo 1. Aprendizaje de 0 a 100 (35h)\Recursos\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.fMain.resources
+D:\Users\Crisp\Downloads\Curso\MEGACURSO.NET.CON.C\01 .Net con C#. Módulo 1. Aprendizaje de 0 a 100 (35h)\Recursos\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.Properties.Resources.resources
+D:\Users\Crisp\Downloads\Curso\MEGACURSO.NET.CON.C\01 .Net con C#. Módulo 1. Aprendizaje de 0 a 100 (35h)\Recursos\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.csproj.GenerateResource.cache
+D:\Users\Crisp\Downloads\Curso\MEGACURSO.NET.CON.C\01 .Net con C#. Módulo 1. Aprendizaje de 0 a 100 (35h)\Recursos\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.csproj.CoreCompileInputs.cache
+D:\Users\Crisp\Downloads\Curso\MEGACURSO.NET.CON.C\01 .Net con C#. Módulo 1. Aprendizaje de 0 a 100 (35h)\Recursos\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.exe
+D:\Users\Crisp\Downloads\Curso\MEGACURSO.NET.CON.C\01 .Net con C#. Módulo 1. Aprendizaje de 0 a 100 (35h)\Recursos\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.pdb
